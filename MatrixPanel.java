@@ -1,5 +1,7 @@
 package lifeGame;
 
+//GUI for life matrix
+
 import javax.swing.*;
 import java.awt.*;
 

@@ -1,6 +1,6 @@
 package lifeGame;
 
-// Class representing a life matrix
+// Class representing logics of a life matrix
 
 public class LifeMatrix {
 	
